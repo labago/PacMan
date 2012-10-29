@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ draw.jar geometry.jar idraw.jar tester.jar jpt.jar
+  colors.jar
+Class-Path: .
+Rsrc-Main-Class: Gameworld
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
